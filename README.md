@@ -37,3 +37,18 @@ npx knex migrate:rollback
 
 listar todas as migrates executas
 npx knex migrate:status
+
+deploy de aplicação NODEJS
+backend
+experimental: HerokuApp.com
+production: digitalOcean
+grandes servers: AWS, GoogleCloud e Azure.
+
+frontend
+netlify
+
+padrão de código
+ESLint e Prettier
+Autenticação JWT
+Styled Components
+
